@@ -1,5 +1,15 @@
-// Change only the destinations below. No rebuild is needed.
-window.AURA_LINKS = {
- googlePlay: "https://play.google.com/store/apps/details?id=com.aurametabolic.app",
- appStore: "" // Paste your real App Store URL here when available.
+// ============================================================
+// ССЫЛКИ НА МАГАЗИНЫ — редактируйте только этот файл
+// ============================================================
+// Вставьте адрес приложения в кавычки напротив нужного магазина.
+// Пока ссылка пустая (''), кнопка этого магазина на сайте скрыта.
+// Сохраните файл и обновите страницу — кнопка появится.
+// Пересборка сайта НЕ нужна.
+//
+// Пример:
+//   appStore: 'https://apps.apple.com/app/aura-metabolic/id1234567890',
+
+window.AURA_STORE_LINKS = {
+  googlePlay: 'https://play.google.com/store/apps/details?id=com.aurametabolic.app',
+  appStore: '',
 };
