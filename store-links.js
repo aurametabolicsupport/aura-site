@@ -11,5 +11,5 @@
 
 window.AURA_STORE_LINKS = {
   googlePlay: 'https://play.google.com/store/apps/details?id=com.aurametabolic.app',
-  appStore: '',
+  appStore: 'https://apps.apple.com/ua/app/aura-metabolic-food-gi/id6834015337?l=ru',
 };
